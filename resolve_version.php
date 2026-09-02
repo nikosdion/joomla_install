@@ -1,6 +1,11 @@
 #!/usr/bin/env php
 <?php
 /**
+ * Copyright (c) 2026 Nicholas K. Dionysopoulos
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * resolve_version.php
  *
  * Reads the sources.json index, filters Joomla entries, and resolves the best

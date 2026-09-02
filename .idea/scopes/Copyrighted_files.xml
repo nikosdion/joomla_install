@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Copyrighted files" pattern="file[joomla_install]:install.sh||file[joomla_install]:resolve_version.php" />
+</component>

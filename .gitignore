@@ -2,3 +2,11 @@
 .env
 .idea/
 *.log
+
+# Share the PhpStorm copyright profile and its narrowly targeted scope.
+!.idea/
+.idea/*
+!.idea/copyright/
+!.idea/copyright/*.xml
+!.idea/scopes/
+!.idea/scopes/Copyrighted_files.xml

@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Copyright\s*\(c\)\s*20[0-9]{2}\s*Nicholas K\. Dionysopoulos" />
+    <option name="keyword" value="Copyright\s*\(c\)\s*20[0-9]{2}\s*Nicholas K\. Dionysopoulos" />
+    <option name="notice" value="Copyright (c) &amp;#36;today.year Nicholas K. Dionysopoulos&#10;SPDX-License-Identifier: MIT" />
+    <option name="myName" value="MIT" />
+  </copyright>
+</component>

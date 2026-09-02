@@ -41,7 +41,7 @@ Edit `.env` to match your local environment:
 
 `site-slug` is used as the site directory name, database name, database username, and database password. It must start with a letter or digit and contain only letters, digits, and hyphens.
 
-`joomla-version` can be:
+`joomla-version` can be the literal "latest" for the latest stable release (default), a major version, a version family (major.minor), or a full version (major.minor.patch). Examples:
 
 | Value | Meaning |
 |---|---|
@@ -63,7 +63,7 @@ Edit `.env` to match your local environment:
 ./install.sh mysite 5.2.1
 ```
 
-After a successful install the script prints:
+After a successful installation, the script prints something along the lines of:
 
 ```
 Joomla 5.2.1 installed on https://mysite.example.dev
@@ -87,4 +87,8 @@ Your Super User login information is as follows.
 
 ## Re-installing a site
 
-Running the script again with the same slug is safe — it drops the existing database and deletes the site directory before starting fresh.
+Running the script again with the same slug drops the existing database and deletes the site directory before starting fresh.
+
+## License
+
+This project is distributed under the [MIT License](LICENSE).

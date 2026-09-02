@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) 2026 Nicholas K. Dionysopoulos
+# SPDX-License-Identifier: MIT
+
 # =============================================================================
 # install.sh — Install a Joomla site locally
 # =============================================================================
